@@ -1,2 +1,1 @@
-# Valora
-Valora project repo
+# Valora project repo
